@@ -1,5 +1,6 @@
 
 # Bike share case study
+
 ## Case Study: How Does a Bike-Share Navigate Speedy Success?
 
 ### Google Data Analystics Professional Certification Program - Capstone Project
@@ -40,7 +41,7 @@ Three questions will guide the future marketing program:
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 Prepare Phase
-Data Description: download 12 months data of cyclistic trip from October 2021 to September 2022. The dataset consists of twelve separate ‘.csv’ formatted files representing each month. The datasets are located in the  Link: Index of bucket "divvy-tripdata"
+Data Description: download 12 months data of cyclistic trip from October 2021 to September 2022. The dataset consists of twelve separate ‘.csv’ formatted files representing each month. The datasets are located in the Link: [Index of bucket "divvy-tripdata"](https://divvy-tripdata.s3.amazonaws.com/index.html) 
 
 ride_id,
 started_at, 
