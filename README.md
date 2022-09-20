@@ -86,7 +86,7 @@ Analyze Phase
 ![top20routes](https://user-images.githubusercontent.com/113184507/191274748-5e2618f9-f110-4d48-8121-3e4fa68fa8a5.png)
 
 Share Phase
-- Visualizations by Tableau
+- Visualizations by Tableau.[Visit full public data visualizations here](https://public.tableau.com/app/profile/dulick/viz/Bike_share_202209/Bikeshare_202110_202209_1)
 
 ![number_rides_by_user_type](https://user-images.githubusercontent.com/113184507/191275149-ea8f8a2b-e29a-46ec-9f88-3c77e09d7b80.png)
 
