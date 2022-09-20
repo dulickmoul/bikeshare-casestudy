@@ -2,7 +2,7 @@
 # Bike share case study
 ## Case Study: How Does a Bike-Share Navigate Speedy Success?
 
-## Google Data Analystics Professional Certification Program - Capstone Project
+### Google Data Analystics Professional Certification Program - Capstone Project
 
 Table of contents 
 - Introduction
